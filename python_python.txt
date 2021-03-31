@@ -1,0 +1,1 @@
+Zadania do wykonanaia w jezyku (Client - python, Server - python)
